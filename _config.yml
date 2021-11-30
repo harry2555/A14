@@ -3,3 +3,5 @@ It is also embedded in the HTML webpages and the information flowing between the
 its simple to use, doesn't use resources in the server and cookies expire after session ends. It can be disabled or enabled, however the
 negatives comes with cookies are not secured and its difficult to decrypt. It is not ethical because websites sell cookies to each other and some websites do not even display the
 acceptance button of cookies. 
+
+theme: jekyll-theme-cayman
